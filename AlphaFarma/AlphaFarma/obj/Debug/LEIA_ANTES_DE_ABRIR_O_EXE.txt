@@ -1,0 +1,4 @@
+------------------ATENÇÃO-------------------
+
+CRIAR PASTA FICHEIROS NO DISCO LOCAL c:\
+FICANDO ASSIM COM FICHEIROS C:\Ficheiros
