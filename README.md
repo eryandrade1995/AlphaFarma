@@ -1,1 +1,7 @@
-CRUD em .txt com Windows Forms, com a temática de uma distribuidora de medicamentos. Projeto acadêmico de primeiro período.
+------------------ATENÇÃO-------------------
+
+CRIAR PASTA FICHEIROS NO DISCO LOCAL c:
+FICANDO ASSIM COM FICHEIROS C:\Ficheiros OS ARQUIVOS TXT,
+SERÃO CRIADOS NA PASTA AUTOMATICAMENTE,
+PORÉM, NA PRIMEIRA EXECUÇÃO DO APLICATIVO,
+IRÁ DAR ERROR, POIS IRÁ CRIAR OS TXT.# AlphaFarma
