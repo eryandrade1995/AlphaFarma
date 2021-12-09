@@ -1,8 +1,1 @@
-------------------ATEN«√O-------------------
-
-CRIAR PASTA FICHEIROS NO DISCO LOCAL c:\
-FICANDO ASSIM COM FICHEIROS C:\Ficheiros
-OS ARQUIVOS TXT, SER√O CRIADOS NA PASTA
-AUTOMATICAMENTE, POR…M, NA PRIMEIRA EXECU«√O
-DO APLICATIVO, IR¡ DAR ERROR, POIS IR¡ CRIAR
-OS TXT.# AlphaFarma
+CRUD em .txt com Windows Forms, com a tem√°tica de uma distribuidora de medicamentos. Projeto acad√™mico de primeiro per√≠odo.
