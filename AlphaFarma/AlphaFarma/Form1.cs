@@ -24,19 +24,19 @@ namespace AlphaFarma
         public txtCadastroPE()
         {
  
-            if (!File.Exists(@"C:\Ficheiros\MedicamentoOrigi.txt"))
-            {
-                File.Create(@"C:\Ficheiros\MedicamentoOrigi.txt");
-            }
+            //if (!File.Exists(@"C:\MedicamentoOrigi.txt"))
+            //{
+            //    File.Create(@"C:\MedicamentoOrigi.txt");
+            //}
 
-            if (!File.Exists(@"C:\Ficheiros\MedicamentoManip.txt"))
-            {
-                File.Create(@"C:\Ficheiros\MedicamentoManip.txt");
-            }
-            if (!File.Exists(@"C:\Ficheiros\Combos.txt"))
-            {
-                File.Create(@"C:\Ficheiros\Combos.txt");
-            }
+            //if (!File.Exists(@"C:\Ficheiros\MedicamentoManip.txt"))
+            //{
+            //    File.Create(@"C:\MedicamentoManip.txt");
+            //}
+            //if (!File.Exists(@"C:\Combos.txt"))
+            //{
+            //    File.Create(@"C:\Combos.txt");
+            //}
 
             InitializeComponent();
             
