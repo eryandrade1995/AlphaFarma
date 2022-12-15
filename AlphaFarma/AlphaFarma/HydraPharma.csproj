@@ -66,6 +66,7 @@
     <Compile Include="Combos.Designer.cs">
       <DependentUpon>Combos.cs</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\ProdutosController.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
