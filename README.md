@@ -1,7 +1,1 @@
-------------------ATENÇÃO-------------------
-
-CRIAR PASTA FICHEIROS NO DISCO LOCAL c:
-FICANDO ASSIM COM FICHEIROS C:\Ficheiros OS ARQUIVOS TXT,
-SERÃO CRIADOS NA PASTA AUTOMATICAMENTE,
-PORÉM, NA PRIMEIRA EXECUÇÃO DO APLICATIVO,
-IRÁ DAR ERROR, POIS IRÁ CRIAR OS TXT.# AlphaFarma
+Transformando projeto acadêmico feito em .txt para um CRUD utilizando SQL Server e EF como ferramenta para construção de chamadas e requisições. (Estudo de Entity Framework)
